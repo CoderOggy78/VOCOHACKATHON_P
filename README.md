@@ -9,7 +9,7 @@
 ## Our Project :
 Software for Vocational Training for persons with visual impairment
 
-### PS Description :
+### Project Description :
 <b>Background:</b> A web/app based solution required for vocational training for persons with visual impairment. It would have greater accessibility support and a better user interface.
 
 <b>Situation:</b> Currently no such software is available for persons with visual impairment. Further because of their mobility, it is difficult for them to get offline vocational training. Such software will enable them to get suitable vocational training in the area of their interest and will enable them to become self dependent.
@@ -58,26 +58,6 @@ We have implemented these features:
 
 ### Important URLS :
 ⭐️ <b>VoCo.apk :</b> [Click Here to download our app](https://drive.google.com/file/d/1G2OAgv496ZIgfTvQDB9stnZZdOtdA90W/view?usp=sharing)
-
-⭐️ <b>Main PPT :</b> [Click Here to View](https://www.canva.com/design/DAFKY0ISCIc/Dc9_AccjIlpIO0fpXs7zAg/edit)
-
-⭐️ <b>Video : Understanding VoCo</b>
-
-[![Watch the video](https://img.youtube.com/vi/SotVdWlF0qk/hqdefault.jpg)](https://youtu.be/SotVdWlF0qk)
-
-⭐️ <b>Video : VoCo App Guide</b>
-
-[![Watch the video](https://img.youtube.com/vi/JdDHJDz9RwU/hqdefault.jpg)](https://youtu.be/JdDHJDz9RwU)
-
-⭐️ <b>Research Proposal :</b> [Click Here to View](https://drive.google.com/file/d/1IWLqan4KK0uA738anxIMGWorU3y1yo0H/view?usp=sharing)
-
-⭐️ <b>Initial Basic Blue Print :</b> [Click Here to View](https://drive.google.com/file/d/1DbnphCEYUreNn5E48bvN6N0b3pgw_8ib/view?usp=sharing)
-
-⭐️ <b>Extra : You can also watch our fun VLOG 😅</b>
-
-[![Watch the video](https://img.youtube.com/vi/XQbKl_6FldM/mqdefault.jpg)](https://youtu.be/XQbKl_6FldM)
-
----
 
 ## Project Created & Maintained By
 
