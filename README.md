@@ -5,11 +5,8 @@
 
 <h2 align="center">COMPLETE DESCRIPTION</h2>
 
-### PS ID : RK774
 
-### Team ID : 23641
-
-### PS Title :
+## Our Project :
 Software for Vocational Training for persons with visual impairment
 
 ### PS Description :
