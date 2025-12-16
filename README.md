@@ -61,21 +61,11 @@ We have implemented these features:
 
 ## Project Created & Maintained By
 
-## :heart: Team Vision
-1. [Krishna Raj](https://github.com/krishna-raz)
-2. [Ujjwal Raj](https://github.com/uzibytes)
-3. [Rajnish Puri](https://github.com/RajnishPuri)
-4. [Prashant Kumar](https://github.com/PkThunderBolt)
-5. [Shubham Kumar](https://github.com/ItsWhiteDevil)
-6. [Aradhana Kumari](https://github.com/aradhana2618)
-
-### Hire Us
-<a href="https://www.linkedin.com/in/ujjwal-raj-b2545a213/"> <img src="https://img.shields.io/badge/ujjwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="https://www.linkedin.com/in/iamkrishnaraj/"> <img src="https://img.shields.io/badge/krishna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="https://www.linkedin.com/in/rajnish-puri-804b11209/"> <img src="https://img.shields.io/badge/rajnish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="https://www.linkedin.com/in/prashant-kumar-426775213/"> <img src="https://img.shields.io/badge/prashant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="https://www.linkedin.com/in/shubham-kumar-0b44071b8/"> <img src="https://img.shields.io/badge/shubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="https://www.linkedin.com/in/aradhana-kumari-62b634218/"> <img src="https://img.shields.io/badge/aradhana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+## :heart: Team Hawkeye
+1. [Vishwanath Barve](https://www.linkedin.com/in/vishwanath-barve-151146323/)
+2. [Ritisha Parikh](https://www.linkedin.com/in/ritisha-parikh-aaa54932a/)
+3. [Shravani Chavan](https://www.linkedin.com/in/shravani-chavan-96169b39b/)
+4. [M Krishika](https://www.linkedin.com/in/m-krishika-3a7b71397/)
 
 ### How-to-run
 
@@ -93,5 +83,5 @@ You are free to send us PRs and issues, We'd love to help and improve this.
 
 <h1 align="center">🙏 THANK YOU 🙏</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Oldenburg&color=67F7AD&lines=Best+Wishes+from+Team+Vision)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Oldenburg&color=67F7AD&lines=Best+Wishes+from+Team+Hawkeye)
 
