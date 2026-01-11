@@ -20,6 +20,7 @@ import 'package:loginuicolors/page/vocogyan/tech/DSA.dart';
 import 'package:loginuicolors/page/vocogyan/tech/ch1.dart';
 import 'package:loginuicolors/page/vocogyan/tech/quizDsa.dart';
 
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
