@@ -19,8 +19,6 @@ import 'package:loginuicolors/page/pronunciation_guide/guidep1.dart';
 import 'package:loginuicolors/page/vocogyan/tech/DSA.dart';
 import 'package:loginuicolors/page/vocogyan/tech/ch1.dart';
 import 'package:loginuicolors/page/vocogyan/tech/quizDsa.dart';
-// import 'package:flutter/services.dart';
-// import 'package:alan_voice/alan_voice.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
