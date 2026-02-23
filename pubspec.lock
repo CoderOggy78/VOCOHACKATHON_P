@@ -74,7 +74,7 @@ packages:
   audioplayers_windows:
     dependency: transitive
     description:
-      name: audioplayers_windows
+      name: audioplayers_windows 
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.0"
